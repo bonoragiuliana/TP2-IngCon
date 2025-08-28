@@ -4,6 +4,6 @@
 
 nombre = "Julia"
 apellido = "Roberts"
-
 nombreCompleto = nombre + " " + apellido
+
 print("nombre completo: ", nombreCompleto)

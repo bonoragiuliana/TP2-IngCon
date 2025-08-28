@@ -4,4 +4,4 @@
 # un espacio antes de concatenar la variable al resto del texto.
 
 materia = "Ingenería del conocimiento"
-print("Estas estudiando ", materia)
+print("Estas estudiando " + materia)

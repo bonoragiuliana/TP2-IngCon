@@ -2,6 +2,6 @@
 #¿En qué país vives?
 #El código debe poder imprimir en pantalla lo ingresado por el usuario (utilizando print).
 
-respuesta = input("dónde vives?")
+respuesta = input("Dónde vives?")
 
-print("vives en: ", respuesta)
+print("Vives en:", respuesta)

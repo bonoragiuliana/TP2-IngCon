@@ -2,6 +2,6 @@
 #¿Qué estás estudiando?
 #El código debe poder imprimir en pantalla lo ingresado por el usuario (utilizando print).
 
-respuesta = input ("qué estás estudiando? ")
+respuesta = input ("Qué estás estudiando? ")
 
-print("estas estudiando: ", respuesta)
+print("Estas estudiando:", respuesta)

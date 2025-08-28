@@ -5,4 +5,4 @@
 nombre = "David Bowman"
 edad = 51
 
-print("nombre: ", nombre, "y edad: ", edad)
+print("Nombre", nombre, "y edad", edad, "años de edad")

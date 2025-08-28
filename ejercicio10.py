@@ -3,4 +3,4 @@
 num1 = 874
 num2 = 27
 
-print(num1 // num2)
+print("El cocinete de la divisón es:", num1 // num2)

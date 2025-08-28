@@ -4,4 +4,4 @@
 nombre = "Giuliana"
 numero = 114079
 
-print("Estimada ", nombre, ", su número de asociado es: ", numero) 
+print("Estimada " + nombre + ", su número de asociado es:", numero) 
